@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Projeto pessoa para adquirir mais conhecimento!
+### Projeto pessoal para adquirir mais conhecimento!
 
 ![Sakido](https://cdn.discordapp.com/attachments/733437491209830430/1065292779237945407/SAKIDO3.png)
 Olá Sobreviventes! [SakidoGG](https://discord.gg/xFGrz8d) é uma servidor de GTA 5 Roleplay para <b>FIVEM</b>, desenvolvido em cima da flamework [QBCore](https://github.com/qbcore-framework/qb-core), totalmente modificada para entregar o melhor do roleplay, com uma jogabilidade incrivel, o projeto encontranse em fase de teste prestes a ser lançada!
