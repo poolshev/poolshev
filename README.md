@@ -16,14 +16,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Projeto pessoal para adquirir mais conhecimento!
-
-![Sakido](https://cdn.discordapp.com/attachments/733437491209830430/1065292779237945407/SAKIDO3.png)
-Olá Sobreviventes! [SakidoGG](https://discord.gg/xFGrz8d) é uma servidor de GTA 5 Roleplay para <b>FIVEM</b>, desenvolvido em cima da flamework [QBCore](https://github.com/qbcore-framework/qb-core), totalmente modificada para entregar o melhor do roleplay, com uma jogabilidade incrivel, o projeto encontranse em fase de teste prestes a ser lançada!
-Vou contar um pouco de <b>SKD</b> <i>(assim apelidada por sua comunidade)</i>, é uma provincia japonesa dentro dos EUA no ano de 2277, não é a era cyber, é um pouco depois da era apocaliptica, aonde tudo esta começando a ser recontruir. SakidoGG é um projeto produzido 100% independente, hoje contamos com colaboradores que me ajudam na parte administrativa do projeto e marketing, buscamos apoio para starta esse projeto para toda a comunidade gaming!
 
 ### Um pouco mais sobre mim!
 
-Meu nome é Marcelito Guedes, tenho 30 anos e sou diagnosticado com [TDAH](https://tdah.org.br/sobre-tdah/o-que-e-tdah/), amo jogar e desenvolver coisas malucas para jogos, tenho dois extremos ou eu entro em hiperfoco e perco noção do tempo, ou procastino por conta que minha mente pensa em muita coisa ao mesmo tempo e eu não consigo fazer nada, odeio esta em locais muito cheio e com muita gritaria isso me incomoda com facilidade, amo conversar por horas com as pessoas e as vezes tenho que me isolar para conseguir trabalhar. Ate hoje não consegui dar o primeiro passo de trabalhar na area da tech por medo do TDAH me atrapalhar, me considero uma pessoa muito inteligente, e criativa, alem da area tech também domino bem designer grafico e visual, dando vida a todos meus projetos, que tanto faço por amor.
+Meu nome é Marcelito Guedes, tenho 33 anos e sou diagnosticado com [TDAH](https://tdah.org.br/sobre-tdah/o-que-e-tdah/), amo jogar e desenvolver coisas malucas para jogos, tenho dois extremos ou eu entro em hiperfoco e perco noção do tempo, ou procastino por conta que minha mente pensa em muita coisa ao mesmo tempo e eu não consigo fazer nada, odeio esta em locais muito cheio e com muita gritaria isso me incomoda com facilidade, amo conversar por horas com as pessoas e as vezes tenho que me isolar para conseguir trabalhar. Ate hoje não consegui dar o primeiro passo de trabalhar na area da tech por medo do TDAH me atrapalhar, me considero uma pessoa muito inteligente, e criativa, alem da area tech também domino bem designer grafico e visual, dando vida a todos meus projetos, que tanto faço por amor.
 
 Até logo!
