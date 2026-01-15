@@ -7,7 +7,7 @@
 [![Facebook Gaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://fb.gg/poolshev)
 
 
-![Poolshev GitHub stats](https://github-readme-stats.vercel.app/api?username=poolshev&show_icons=true&theme=tokyonight)
+[![Poolshev GitHub stats](https://github-readme-stats.vercel.app/api?username=poolshev&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia a dia!
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
